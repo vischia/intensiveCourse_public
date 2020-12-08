@@ -1,0 +1,11 @@
+numpy
+matplotlib
+mpl_toolkits
+inspect
+iminuit
+pyhf
+scipy
+statsmodels
+itertools
+pandas
+statistics
