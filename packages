@@ -9,3 +9,5 @@ statsmodels
 itertools
 pandas
 statistics
+pyunfold
+wget
