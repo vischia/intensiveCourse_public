@@ -1,7 +1,5 @@
 numpy
 matplotlib
-mpl_toolkits
-inspect
 iminuit==1.5.4
 pyhf
 scipy
